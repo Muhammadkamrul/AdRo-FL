@@ -1,5 +1,6 @@
 # AdRo-FL
-
+##
+```
 This repository contains the code, result files, and analysis scripts for the paper:
 
 **AdRo-FL: Secure and Informed Client Selection Framework for Federated Learning under Adversarial Aggregator**
@@ -17,6 +18,7 @@ Md. Kamrul Hossain{1}, Walid Aljoby{1,2}, Anis Elgabli{2,3}, Ahmed M. Abdelmonie
 {4}{School of Electronic Engineering and Computer Science, Queen Mary University of London, United Kingdom}
 
 {5}{Department of Computer Science, Carnegie Mellon University, United States}
+```
 
 The repository includes:
 - the core experiment code used in the paper,
