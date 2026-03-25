@@ -5,10 +5,15 @@ This repository contains the code, result files, and analysis scripts for the pa
 **AdRo-FL: Secure and Informed Client Selection Framework for Federated Learning under Adversarial Aggregator**
 Authors:
 Md. Kamrul Hossain{1}, Walid Aljoby{1,2}, Anis Elgabli{2,3}, Ahmed M. Abdelmoniem{4}, Khaled A. Harras{5}
+
 {1}{Information and Computer Science Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia}
+
 {2}{IRC for Intelligent Secure Systems, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia}
+
 {3}{Industrial and Systems Engineering Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia}
+
 {4}{School of Electronic Engineering and Computer Science, Queen Mary University of London, United Kingdom}
+
 {5}{Department of Computer Science, Carnegie Mellon University, United States}
 
 The repository includes:
