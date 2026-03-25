@@ -21,8 +21,7 @@ Md. Kamrul Hossain{1}, Walid Aljoby{1,2}, Anis Elgabli{2,3}, Ahmed M. Abdelmonie
 {5}{Department of Computer Science, Carnegie Mellon University, United States}
 ```
 
-````
-The repository includes:
+## The repository includes:
 - the core experiment code used in the paper,
 - the final result files used to generate the reported figures and tables,
 - the notebooks used for post-processing and visualization,
@@ -281,7 +280,16 @@ The experiments in this repository **do not instantiate a concrete secure aggreg
 
 ## Citation
 
-If you use this repository, please cite the associated paper.
+If you use this repository, please cite the associated paper:
+@misc{hossain2025adroflinformedsecureclient,
+      title={AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator}, 
+      author={Md. Kamrul Hossain and Walid Aljoby and Anis Elgabli and Ahmed M. Abdelmoniem and Khaled A. Harras},
+      year={2025},
+      eprint={2506.17805},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2506.17805}, 
+}
 
 ## Contact
 
