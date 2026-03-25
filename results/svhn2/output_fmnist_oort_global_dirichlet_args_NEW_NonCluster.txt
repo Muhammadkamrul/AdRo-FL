@@ -1,0 +1,1 @@
+Run_configurations = Namespace(total_worker=100, clients_per_round=20, num_rounds=3000, selection_mode='global', K=0, exploration_factor=0.5, local_epochs=1, batch_size=64, learning_rate=0.1, fairness_T=50, deadline=200.0, quantization_bit=32, alpha=0.1)
