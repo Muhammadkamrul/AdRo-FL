@@ -1,9 +1,10 @@
 # AdRo-FL
+A Secure and Informed Client Selection Framework for Federated Learning under Adversarial Aggregator
 ##
 ```
 This repository contains the code, result files, and analysis scripts for the paper:
 
-**AdRo-FL: Secure and Informed Client Selection Framework for Federated Learning under Adversarial Aggregator**
+**AdRo-FL: Secure and Informed Client Selection for Federated Learning under Adversarial Aggregator**
 
 Authors:
 
