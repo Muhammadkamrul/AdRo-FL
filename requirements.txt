@@ -1,0 +1,10 @@
+numpy==1.26.3
+pandas==2.2.3
+matplotlib==3.9.4
+scipy==1.13.1
+torch==2.1.0
+torchvision==0.16.0
+PyNaCl==1.5.0
+
+# Optional: required only for Oort baseline scripts
+gurobipy==12.0.1
