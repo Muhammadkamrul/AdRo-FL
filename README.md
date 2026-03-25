@@ -281,6 +281,7 @@ The experiments in this repository **do not instantiate a concrete secure aggreg
 ## Citation
 
 If you use this repository, please cite the associated paper:
+```
 @misc{hossain2025adroflinformedsecureclient,
       title={AdRo-FL: Informed and Secure Client Selection for Federated Learning in the Presence of Adversarial Aggregator}, 
       author={Md. Kamrul Hossain and Walid Aljoby and Anis Elgabli and Ahmed M. Abdelmoniem and Khaled A. Harras},
@@ -290,6 +291,7 @@ If you use this repository, please cite the associated paper:
       primaryClass={cs.CR},
       url={https://arxiv.org/abs/2506.17805}, 
 }
+```
 
 ## Contact
 
